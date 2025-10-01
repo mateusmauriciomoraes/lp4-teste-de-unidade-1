@@ -1,4 +1,4 @@
-public class Main {
+public class Pessoa {
 
     public static void main(String[] args) {
         System.out.println(getImc(70, 1.7, "masculino"));
